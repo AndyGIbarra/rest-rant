@@ -11,7 +11,7 @@ function Def (html) {
             <body>
                 {html.children}
             </body>
-        </html> 
+        </html>
     )
 }
 
